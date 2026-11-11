@@ -1,0 +1,8 @@
+{
+  "name": "Remix Calorie Tracker \u0026 Nutrition Guide",
+  "description": "Bilingual (English / Arabic) calorie target calculator, daily meal tracker, and goal-oriented dietary recommendations with dark and light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
